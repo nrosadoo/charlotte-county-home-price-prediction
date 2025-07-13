@@ -2,7 +2,7 @@
 
 This project builds a machine learning model to predict home sale prices in Charlotte County, FL using simulated housing data.
 
-## 📊 Dataset
+##  Dataset
 The dataset includes:
 - Bedrooms, Bathrooms
 - Square Footage
@@ -12,20 +12,20 @@ The dataset includes:
 - Days on Market
 - Sale Price
 
-## 🧠 Models
+##  Models
 - Linear Regression
 - Random Forest Regressor
 - XGBoost Regressor
 
-## 🔧 Technologies
+##  Technologies
 Python, pandas, scikit-learn, matplotlib, seaborn, xgboost
 
-## 🚀 How to Use
+##  How to Use
 1. Explore the data in `notebooks/data_exploration.ipynb`
 2. Train models using `src/model_training.py`
 3. Install dependencies: `pip install -r requirements.txt`
 
-## 📁 Structure
+##  Structure
 ```
 charlotte-county-home-price-prediction/
 ├── data/
